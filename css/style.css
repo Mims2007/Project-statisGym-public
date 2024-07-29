@@ -75,3 +75,13 @@ header ul li a:hover {
 section {
     padding: 50px 0;
 }
+section h3 {
+    text-align: center;
+    padding: 20px 0;
+    color: cyan;
+}
+.about p {
+    color: #666;
+    word-spacing: 2px;
+    line-height: 25px;
+}
