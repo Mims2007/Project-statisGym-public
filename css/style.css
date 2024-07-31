@@ -79,9 +79,43 @@ section h3 {
     text-align: center;
     padding: 20px 0;
     color: cyan;
+    margin-bottom: 25px;
+}
+.about {
+    padding-bottom: 100px;
 }
 .about p {
     color: #666;
     word-spacing: 2px;
     line-height: 25px;
+}
+.contact {
+    background-color: #f9f9f9;
+}
+.box {
+    color: #148f77;
+}
+.box:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.box .col-4 {
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+.icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 70px;
+    font-size: 70px;
+    margin: 0 auto;
+}
+.box .col-4 h4 {
+    margin: 20px 0;
 }
