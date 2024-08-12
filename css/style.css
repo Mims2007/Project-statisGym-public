@@ -1,3 +1,4 @@
+
 * {
     padding: 0;
     margin: 0;
@@ -150,7 +151,7 @@ footer {
 }
 .alat-2 {
     color: rgb(0, 89, 255);
-    background-image: url('..s/img/smithmachine.JFIF');
+    background-image: url('../img/smithmachine.JFIF');
     padding: 100px;
     height: 100px;
     background-size: cover;
