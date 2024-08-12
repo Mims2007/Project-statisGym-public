@@ -144,7 +144,7 @@ footer {
 }
 .alat-1 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/treadmill.JPG');
+    background-image: url('https://mims2007.github.io/Project-statisGym-public/img/treadmill.JPG');
     padding: 100px;
     height: 100px;
     background-size: cover;
