@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
+    scroll-behavior: smooth;
 }
 a {
     color: inherit;
@@ -74,4 +75,132 @@ header ul li a:hover {
 }
 section {
     padding: 50px 0;
+}
+section h3 {
+    text-align: center;
+    padding: 20px 0;
+    color: cyan;
+    margin-bottom: 25px;
+}
+.about {
+    padding-bottom: 100px;
+}
+.about p {
+    color: #666;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #f1f1f1;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.contact {
+    background-color: #f9f9f9;
+}
+.box {
+    color: #148f77;
+}
+.box:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.box .col-4 {
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+}
+.icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 70px;
+    font-size: 70px;
+    margin: 0 auto;
+}
+.box .col-4 h4 {
+    margin: 20px 0;
+}
+.information {
+    background-color: #ddd;
+}
+.container-1 {
+    max-width: 800px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.alat {
+    width: 30%;
+}
+.alat-1 {
+    color: rgb(0, 89, 255);
+    background-image: url('https://mims2007.github.io/Project-statisGym-public/img/treadmill.JPG');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-2 {
+    color: rgb(0, 89, 255);
+    background-image: url('..s/img/smithmachine.JFIF');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-3 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/legpress.WEBP');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-4 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/benchpress.JPEG');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-5 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/seatedrow.WEBP');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-6 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/cablemachine.JPG');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-7 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/latpulldown.JPG');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-8 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/dumble.JPG');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
+}
+.alat-9 {
+    color: rgb(0, 89, 255);
+    background-image: url('../img/pecdeckmachine.webp');
+    padding: 100px;
+    height: 100px;
+    background-size: cover;
 }
