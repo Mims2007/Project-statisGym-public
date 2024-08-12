@@ -52,7 +52,6 @@ header ul li a:hover {
 }
 .banner {
     height: 60vh;
-    background-image: url('../img/banner.JPEG');
     position: relative;
     display: flex;
     justify-content: center;
@@ -144,63 +143,54 @@ footer {
 }
 .alat-1 {
     color: rgb(0, 89, 255);
-    background-image: url('https://mims2007.github.io/Project-statisGym-public/img/treadmill.JPG');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-2 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/smithmachine.JFIF');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-3 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/legpress.WEBP');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-4 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/benchpress.JPEG');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-5 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/seatedrow.WEBP');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-6 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/cablemachine.JPG');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-7 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/latpulldown.JPG');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-8 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/dumble.JPG');
     padding: 100px;
     height: 100px;
     background-size: cover;
 }
 .alat-9 {
     color: rgb(0, 89, 255);
-    background-image: url('../img/pecdeckmachine.webp');
     padding: 100px;
     height: 100px;
     background-size: cover;
